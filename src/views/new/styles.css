@@ -1,0 +1,16 @@
+.new-blog-container {
+  display: flex;
+  flex-direction: column;
+  margin-top: 100px;
+}
+
+.new-blog-content {
+  height: 400px;
+  margin-bottom: 80px;
+}
+
+.col-md-8 {
+        flex: 0 0 auto;
+        width: 66.66666667%;
+        padding: 40px;
+    }

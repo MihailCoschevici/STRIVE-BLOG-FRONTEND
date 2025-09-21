@@ -1,0 +1,9 @@
+.blog-footer {
+  padding-top: 25px;
+  padding-bottom: 25px;
+  background-color: white;
+  /* Ombra sulla parte superiore per separarlo dal contenuto */
+  box-shadow: 0px -2px 4px 1px rgba(222, 222, 222, 1);
+  margin-top: 50px; /* Aggiunge spazio sopra il footer */
+  text-align: center;
+}
