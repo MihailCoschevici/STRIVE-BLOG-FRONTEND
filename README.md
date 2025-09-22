@@ -1,5 +1,3 @@
-Progetto Blog Full-Stack
-Applicazione blog full-stack (MERN Stack) realizzata per Strive School. Include un'API RESTful per la gestione di autori e articoli, autenticazione JWT, upload di immagini e notifiche email.
 
 Funzionalità Principali
 API RESTful per la gestione completa di autori, articoli e commenti (CRUD).
