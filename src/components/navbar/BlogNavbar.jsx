@@ -39,7 +39,7 @@ const NavBar = (props) => {
               ======================================= */}
           <Button
             as="a"
-            href={`${backendUrl}/auth/google`}
+            href="https://striveblog-epicode-w4d4-36841a7f9113.herokuapp.com/auth/google"
             className="blog-navbar-add-button bg-dark ms-3" 
             size="lg"
           >
